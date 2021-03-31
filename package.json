@@ -1,0 +1,25 @@
+{
+  "name": "Cypress-Automatic-Test",
+  "version": "1.0.0",
+  "description": "Repo de Teste Automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open":"cypress open",
+    "cypress:run":"cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adilsonfuta/Cypress-Automatic-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adilsonfuta/Cypress-Automatic-Test/issues"
+  },
+  "homepage": "https://github.com/adilsonfuta/Cypress-Automatic-Test#readme",
+  "devDependencies": {
+    "cypress": "^6.8.0"
+  }
+}
